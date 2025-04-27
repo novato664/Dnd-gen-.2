@@ -1,1 +1,20 @@
-
+[
+  {"nombre": "Atletismo", "atributo_relacionado": "Fuerza", "descripcion": "Capacidad física general."},
+  {"nombre": "Acrobacias", "atributo_relacionado": "Destreza", "descripcion": "Saltos, equilibrios y maniobras ágiles."},
+  {"nombre": "Juego de Manos", "atributo_relacionado": "Destreza", "descripcion": "Trucos de manos, robos pequeños."},
+  {"nombre": "Sigilo", "atributo_relacionado": "Destreza", "descripcion": "Ocultarse y moverse sin ser detectado."},
+  {"nombre": "Arcano", "atributo_relacionado": "Inteligencia", "descripcion": "Conocimiento sobre magia."},
+  {"nombre": "Historia", "atributo_relacionado": "Inteligencia", "descripcion": "Conocimiento de eventos pasados."},
+  {"nombre": "Investigación", "atributo_relacionado": "Inteligencia", "descripcion": "Buscar información y pistas."},
+  {"nombre": "Naturaleza", "atributo_relacionado": "Inteligencia", "descripcion": "Conocimiento sobre flora, fauna y clima."},
+  {"nombre": "Religión", "atributo_relacionado": "Inteligencia", "descripcion": "Conocimiento de dioses y mitología."},
+  {"nombre": "Percepción", "atributo_relacionado": "Sabiduría", "descripcion": "Detectar detalles en el entorno."},
+  {"nombre": "Perspicacia", "atributo_relacionado": "Sabiduría", "descripcion": "Detectar intenciones ajenas."},
+  {"nombre": "Medicina", "atributo_relacionado": "Sabiduría", "descripcion": "Tratar heridas y enfermedades."},
+  {"nombre": "Supervivencia", "atributo_relacionado": "Sabiduría", "descripcion": "Encontrar comida, rastrear, navegar."},
+  {"nombre": "Engaño", "atributo_relacionado": "Carisma", "descripcion": "Mentir y disfrazarse."},
+  {"nombre": "Intimidación", "atributo_relacionado": "Carisma", "descripcion": "Asustar o forzar a otros."},
+  {"nombre": "Actuación", "atributo_relacionado": "Carisma", "descripcion": "Interpretar música, teatro o danza."},
+  {"nombre": "Persuasión", "atributo_relacionado": "Carisma", "descripcion": "Convencer a otros con palabras."
+  }
+]
