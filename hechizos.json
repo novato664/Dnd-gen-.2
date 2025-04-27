@@ -1,0 +1,4 @@
+[
+      {"clase": "Mago", "hechizos": ["Misil Mágico", "Bola de Fuego", "Invisibilidad"]},
+      {"clase": "Clérigo", "hechizos": ["Curar heridas", "Bendecir", "Luz"]}
+    ]

@@ -1,0 +1,5 @@
+[
+      {"nombre": "Enano", "tamano": "Mediano", "velocidad": 25, "habilidad": "Visión en la oscuridad, Resistencia al veneno"},
+      {"nombre": "Elfo", "tamano": "Mediano", "velocidad": 30, "habilidad": "Visión en la oscuridad, Sentidos agudos"},
+      {"nombre": "Humano", "tamano": "Mediano", "velocidad": 30, "habilidad": "Versatilidad"}
+    ]

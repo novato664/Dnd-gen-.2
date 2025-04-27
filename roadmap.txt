@@ -1,0 +1,25 @@
+
+Roadmap de Expansión para el Generador de Personajes D&D 5e
+
+Nivel 1 — Mejoras fáciles
+- Subclases dinámicas (elegir subclase al nivel 3)
+- Agregar más razas y clases (manuales extra)
+- Mejorar equipo inicial con packs (aventurero, sacerdote)
+- Habilidades especiales (percepción pasiva, iniciativa)
+
+Nivel 2 — Mejoras intermedias
+- Integrar con API externa (Open5e API)
+- Inventario de equipo editable
+- Generar retratos aleatorios
+
+Nivel 3 — Mejoras avanzadas
+- Sistema de puntos de experiencia
+- Guardar personajes (en JSON local)
+- Crear campañas cooperativas
+
+Opcionales épicos
+- Convertir en app móvil Android/iOS
+- Generador automático de aventuras
+- Integrar sistema básico de combate
+
+¡Tu proyecto ya tiene una base sólida para expandirlo cuando quieras!

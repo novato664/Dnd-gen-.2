@@ -1,0 +1,5 @@
+[
+      {"clase": "Guerrero", "equipo": ["Espada larga", "Escudo", "Armadura de malla"]},
+      {"clase": "Mago", "equipo": ["Bastón arcano", "Libro de hechizos", "Túnica"]},
+      {"clase": "Clérigo", "equipo": ["Maza", "Escudo", "Armadura de cuero"]}
+    ]
