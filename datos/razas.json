@@ -1,20 +1,62 @@
 [
   {
-    "nombre": "Enano",
-    "tamano": "Mediano",
-    "velocidad": 25,
-    "habilidad": "Visión en la oscuridad, Resistencia al veneno"
+    "nombre": "Bárbaro",
+    "dadoGolpe": "1d12",
+    "competencia": "Armaduras ligeras, medias, escudos, armas sencillas y marciales"
   },
   {
-    "nombre": "Elfo",
-    "tamano": "Mediano",
-    "velocidad": 30,
-    "habilidad": "Visión en la oscuridad, Sentidos agudos"
+    "nombre": "Bardo",
+    "dadoGolpe": "1d8",
+    "competencia": "Armaduras ligeras, armas sencillas, ballestas de mano, espadas largas, estoques y mandobles"
   },
   {
-    "nombre": "Humano",
-    "tamano": "Mediano",
-    "velocidad": 30,
-    "habilidad": "Versatilidad"
+    "nombre": "Clérigo",
+    "dadoGolpe": "1d8",
+    "competencia": "Armaduras ligeras, medias, escudos, armas sencillas"
+  },
+  {
+    "nombre": "Druida",
+    "dadoGolpe": "1d8",
+    "competencia": "Armaduras ligeras, medias (sin metal), escudos (sin metal), armas de druida"
+  },
+  {
+    "nombre": "Guerrero",
+    "dadoGolpe": "1d10",
+    "competencia": "Armaduras ligeras, medias, pesadas, escudos, armas sencillas y marciales"
+  },
+  {
+    "nombre": "Hechicero",
+    "dadoGolpe": "1d6",
+    "competencia": "Armaduras ligeras, armas sencillas, dagas, bastones"
+  },
+  {
+    "nombre": "Mago",
+    "dadoGolpe": "1d6",
+    "competencia": "Armas sencillas, bastones, hondas, dagas"
+  },
+  {
+    "nombre": "Monje",
+    "dadoGolpe": "1d8",
+    "competencia": "Armas simples, espadas cortas"
+  },
+  {
+    "nombre": "Paladín",
+    "dadoGolpe": "1d10",
+    "competencia": "Todas las armaduras, escudos, armas sencillas y marciales"
+  },
+  {
+    "nombre": "Pícaro",
+    "dadoGolpe": "1d8",
+    "competencia": "Armaduras ligeras, armas sencillas, ballestas de mano, espadas cortas, estoques, espadas largas"
+  },
+  {
+    "nombre": "Explorador",
+    "dadoGolpe": "1d10",
+    "competencia": "Armaduras ligeras, medias, escudos, armas sencillas y marciales"
+  },
+  {
+    "nombre": "Brujo",
+    "dadoGolpe": "1d8",
+    "competencia": "Armaduras ligeras, armas sencillas"
   }
 ]
