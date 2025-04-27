@@ -1,1 +1,47 @@
-<!DOCTYPE html><html><head><meta charset='UTF-8'><title>Generador D&D</title></head><body><h1>Generador Listo</h1></body></html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Generador de Personajes D&D 5e</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="librerias/html2pdf.bundle.min.js"></script>
+</head>
+<body>
+  <div class="contenedor">
+    <h1 id="titulo">Generador de Personajes D&D 5e</h1>
+
+    <div class="seccion">
+      <label for="idioma-selector">Idioma:</label>
+      <select id="idioma-selector">
+        <option value="es">Español</option>
+        <option value="en">English</option>
+      </select>
+
+      <label for="nivel-selector" id="nivel-label">Nivel:</label>
+      <select id="nivel-selector">
+      </select>
+    </div>
+
+    <div class="seccion">
+      <label>Raza:</label>
+      <select id="seleccion-raza"></select>
+      <label>Clase:</label>
+      <select id="seleccion-clase"></select>
+      <label>Trasfondo:</label>
+      <select id="seleccion-trasfondo"></select>
+    </div>
+
+    <div class="seccion">
+      <button onclick="generarPersonajeManual()" id="boton-crear-personaje">Crear Personaje</button>
+      <button onclick="generarParty()" id="boton-crear-party">Crear Party</button>
+      <button onclick="descargarPDF()" id="boton-descargar-pdf">Descargar PDF</button>
+      <button onclick="toggleModoOscuro()" id="boton-modo-oscuro">Modo Oscuro</button>
+    </div>
+
+    <div id="resultado"></div>
+  </div>
+
+<script src="script.js"></script>
+</body>
+</html>
