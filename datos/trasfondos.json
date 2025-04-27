@@ -1,17 +1,67 @@
 [
   {
-    "nombre": "Héroe del Pueblo",
-    "habilidad": "Supervivencia",
-    "rasgo": "Refugio Seguro"
+    "nombre": "Acólito",
+    "habilidad": "Persuasión, Religión",
+    "rasgo": "Refugio de la fe"
   },
   {
     "nombre": "Criminal",
-    "habilidad": "Engaño",
-    "rasgo": "Red de contactos"
+    "habilidad": "Engaño, Juego de manos",
+    "rasgo": "Red de contactos criminales"
+  },
+  {
+    "nombre": "Héroe del Pueblo",
+    "habilidad": "Atletismo, Supervivencia",
+    "rasgo": "Refugio entre el pueblo"
+  },
+  {
+    "nombre": "Artesano del gremio",
+    "habilidad": "Persuasión, Perspicacia",
+    "rasgo": "Membresía de gremio"
+  },
+  {
+    "nombre": "Ermitaño",
+    "habilidad": "Medicina, Religión",
+    "rasgo": "Descubrimiento de soledad"
+  },
+  {
+    "nombre": "Noble",
+    "habilidad": "Historia, Persuasión",
+    "rasgo": "Posición de privilegio"
+  },
+  {
+    "nombre": "Forastero",
+    "habilidad": "Atletismo, Supervivencia",
+    "rasgo": "Nativo de la región"
   },
   {
     "nombre": "Sabio",
-    "habilidad": "Historia",
-    "rasgo": "Investigador"
+    "habilidad": "Arcano, Historia",
+    "rasgo": "Investigador incansable"
+  },
+  {
+    "nombre": "Marinero",
+    "habilidad": "Atletismo, Percepción",
+    "rasgo": "Pasaje libre"
+  },
+  {
+    "nombre": "Soldado",
+    "habilidad": "Atletismo, Intimidación",
+    "rasgo": "Rango militar"
+  },
+  {
+    "nombre": "Artista itinerante",
+    "habilidad": "Actuación, Persuasión",
+    "rasgo": "Popularidad local"
+  },
+  {
+    "nombre": "Huérfano",
+    "habilidad": "Engaño, Sigilo",
+    "rasgo": "Superviviente callejero"
+  },
+  {
+    "nombre": "Charlatán",
+    "habilidad": "Engaño, Juego de manos",
+    "rasgo": "Falsificación de documentos"
   }
 ]
