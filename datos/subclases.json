@@ -1,1 +1,22 @@
-
+[
+  {
+    "nombre": "Campeón",
+    "clase_asociada": "Guerrero",
+    "descripcion": "Maestro del combate físico y la precisión."
+  },
+  {
+    "nombre": "Dominio de Vida",
+    "clase_asociada": "Clérigo",
+    "descripcion": "Especializado en magia de curación poderosa."
+  },
+  {
+    "nombre": "Escuela de Evocación",
+    "clase_asociada": "Mago",
+    "descripcion": "Especialista en hechizos destructivos como fuego y rayos."
+  },
+  {
+    "nombre": "Ladrón",
+    "clase_asociada": "Pícaro",
+    "descripcion": "Maestro del sigilo, el robo y los trucos."
+  }
+]
