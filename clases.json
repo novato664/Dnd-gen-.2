@@ -1,5 +1,0 @@
-[
-      {"nombre": "Guerrero", "dadoGolpe": "1d10", "competencia": "Armaduras y armas marciales"},
-      {"nombre": "Mago", "dadoGolpe": "1d6", "competencia": "Bastones, hondas, dagas"},
-      {"nombre": "Clérigo", "dadoGolpe": "1d8", "competencia": "Armaduras ligeras y armas sencillas"}
-    ]
